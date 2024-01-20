@@ -1,0 +1,9 @@
+.bg-custom {
+	background-color: #802FDE;
+}
+
+.navbar .nav-item:hover .nav-link{
+	background-color: #f7f7f8;
+	color :#802FDE;
+	border-radius: 15px;
+}
